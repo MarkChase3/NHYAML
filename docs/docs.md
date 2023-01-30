@@ -13,4 +13,13 @@ So, the following is valid:
             some file path idunno
 
 ## Tittles
-    You can do the equivalent of
+You can do the equivalent of an # on markdown easily by putting a center-text property on your file.
+Example:
+
+    center-text#header:
+        Page tittle
+    center-text#another:
+        Another tittle
+
+##
+    
