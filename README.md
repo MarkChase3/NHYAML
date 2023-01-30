@@ -14,7 +14,7 @@ I am inspired on picocss to this. Technically, I wanted to do something like tha
 
 Run
 
-  git clone github.com/MarkChase3/NHYAML
-  pip install pyyaml
-  cd NHYAML
-  python NHYAML.py
+    git clone github.com/MarkChase3/NHYAML
+    pip install pyyaml
+    cd NHYAML
+    python NHYAML.py
