@@ -75,4 +75,7 @@ Pratical Example:
 
 The code from my blog homepage.
 
+## Compiling
+
+Put your code in a file named blog.py and call NHYAML.py using pyhton, copy and paste the result on a html and you are ready to go!
 that's basiccaly it! For now...
