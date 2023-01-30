@@ -8,4 +8,13 @@ I already implemented this in python just foor getting things ready fast, but a 
 Look at the [docs](docs/docs.md)
 
 ## Why to use this?
-I am inspired on picocss to this. Technically, I wanted to do something like that but with grid support. I wasn't so excited about doing just a framework so I've made a markup language. I also didn't want tto reinvent a new syntax parse so I just used yaml.
+I am inspired on picocss to this. Technically, I wanted to do something like that but with grid support. I wasn't so excited about doing just a framework so I've made a markup language. I also didn't want tto reinvent a new syntax parse so I just used yaml. This is good 'cause you can just get things not that bad so easier than normally.
+
+## Installation
+
+Run
+
+  git clone github.com/MarkChase3/NHYAML
+  pip install pyyaml
+  cd NHYAML
+  python NHYAML.py
